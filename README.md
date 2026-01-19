@@ -1,11 +1,11 @@
-# Hi there, I'm KhalilullahSadique! 👋
+# Hi there, I'm Khalilullah Sadique! AKA khalilSediq 👋 
 
-### 🚀 Full Stack Developer | WordPress Specialist | Active Learner
+### 🚀 Full Stack Developer | WordPress Website Designer | Active Learner
 
-I am a results-driven **Full Stack Developer** and **WordPress Website Designer** with a passion for building high-performance web applications and beautiful, functional websites. I thrive on solving complex problems and am constantly evolving my toolkit to stay at the forefront of modern web technologies.
+I am a results-driven **Full Stack Developer** and **WordPress Specialist** with a passion for building high-performance web applications and beautiful, functional websites. I thrive on solving complex problems and am constantly evolving my toolkit to stay at the forefront of modern web technologies.
 
 - 🔭 **Currently working on:** Scaling full-stack applications and custom WordPress themes.
-- 🌱 **Active Learning:** Deepening my knowledge in [Insert a tech you are learning, e.g., Next.js or Docker].
+- 🌱 **Active Learning:** Deepening my knowledge in modern JavaScript frameworks and DevOps.
 - 💬 **Ask me about:** JavaScript, PHP, WordPress optimization, and UI/UX best practices.
 - ⚡ **Fun fact:** I believe every pixel should have a purpose.
 
@@ -27,8 +27,8 @@ I am a results-driven **Full Stack Developer** and **WordPress Website Designer*
 ### 📈 GitHub Analytics
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhalilullahSadique&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilullahSadique&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khalilSediq&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilSediq&layout=compact&theme=radical"/>
 </p>
 
 ---
@@ -44,8 +44,8 @@ I am a results-driven **Full Stack Developer** and **WordPress Website Designer*
 ### 📫 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="KhalilullahSadique" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="KhalilullahSadique" /></a>
+<a href="https://linkedin.com/in/khalilSediq" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="khalilSediq" /></a>
+<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="khalilSediq" /></a>
 </p>
 
 <p align="center">
