@@ -1,45 +1,53 @@
-# Hi there, I'm Khalilullah Sadique! 👋
+# Hi there, I'm KhalilullahSadique! 👋
 
-### 🚀 Data-Driven Developer | Open Source Enthusiast | [Your Focus, e.g., Backend Explorer]
+### 🚀 Full Stack Developer | WordPress Specialist | Active Learner
 
-I'm a passionate developer who loves building things that live on the internet. My goal is to always build products that provide real value to users while keeping the code clean and scalable.
+I am a results-driven **Full Stack Developer** and **WordPress Website Designer** with a passion for building high-performance web applications and beautiful, functional websites. I thrive on solving complex problems and am constantly evolving my toolkit to stay at the forefront of modern web technologies.
 
----
-
-### 🛠 My Tech Stack
-
-| Frontend | Backend | DevOps & Tools |
-| :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) |
+- 🔭 **Currently working on:** Scaling full-stack applications and custom WordPress themes.
+- 🌱 **Active Learning:** Deepening my knowledge in [Insert a tech you are learning, e.g., Next.js or Docker].
+- 💬 **Ask me about:** JavaScript, PHP, WordPress optimization, and UI/UX best practices.
+- ⚡ **Fun fact:** I believe every pixel should have a purpose.
 
 ---
 
-### 📈 GitHub Stats
+### 🛠 My Specialized Skills
+
+#### 🌐 Full Stack Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+#### 🎨 CMS & Design
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+#### ⚙️ Learning & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Active Learner](https://img.shields.io/badge/Learning-Continuously-blueviolet?style=flat-square)
+
+---
+
+### 📈 GitHub Analytics
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhalilullahSadique&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilullahSadique&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-### 🔥 Top Projects
+### 💼 Portfolio Highlights
 
-* **[Project Name](link)** - A brief 1-sentence description of what this does and why it matters.
-* **[Project Name](link)** - Highlight the tech used: *React, Firebase, Stripe.*
-* **[Project Name](link)** - Mention a specific problem you solved here.
+* **Custom WordPress Solutions** – High-converting, SEO-optimized sites built with Elementor and custom PHP.
+* **MERN Stack Applications** – Full-scale web apps with seamless front-to-back integration.
+* **Open Source Contributions** – Always looking to give back to the developer community!
 
 ---
 
-### 🤝 Let's Connect
+### 📫 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/[YOUR-LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[YOUR-NAME]" height="30" width="40" /></a>
-<a href="https://twitter.com/[YOUR-TWITTER]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[YOUR-NAME]" height="30" width="40" /></a>
-<a href="https://[YOUR-PORTFOLIO].com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="[YOUR-NAME]" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="KhalilullahSadique" /></a>
+<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="KhalilullahSadique" /></a>
 </p>
 
----
-
-> "The best way to predict the future is to invent it." – Alan Kay
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
