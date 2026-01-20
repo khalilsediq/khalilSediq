@@ -45,7 +45,8 @@ I am a Software Engineer focused on building robust, scalable digital infrastruc
 ### 🖇 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/khalilSediq" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="khalilSediq" /></a>
+<a href="www.linkedin.com/in/khalilullah-sadique-17592825a
+" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="khalilSediq" /></a>
 <a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="khalilSediq" /></a>
 </p>
 
