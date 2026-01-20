@@ -11,7 +11,7 @@ Right now, I’m focused on moving into full-scale software engineering. I’m a
 
 I use this GitHub to host my work and track my progress. Check out my repositories to see what I’m building, and feel free to reach out if you want to collaborate.</p>
 
-| Currently Learning | Autogen, LangGraph | JavaScript | React
+| Currently Learning | Autogen, LangGraph, Flutter | JavaScript | React
 | ------------------ | --------- |
 	
 <p align="center">
