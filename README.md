@@ -1,54 +1,72 @@
-# Hi there, I'm Khalilullah Sadique! AKA khalilSediq 👋 
 
+<img alt="Coding" style="border-radius:16px;" src="./images/background.png">
 
-### 🚀 Software Engineer | Full-Stack Developer | Mobile App Explorer
+<h3 align="center" style="margin-top: 4px;">Hi there, I'm Khalilullah Sadique! AKA khalilSediq OR khalilullah.JS 👋, <span style="text-transform:uppercase;"> A Developer and Future Software Engineer.</span></h3>	
 
-I am a Software Engineer focused on building robust, scalable digital infrastructure. While my professional background is rooted in architecting high-performance **Full-Stack Web Systems** and specialized **WordPress ecosystems**, I am currently pivoting my engineering focus toward **Advanced Mobile Application Development** and system design.
+<p>
 
-- 🛠 **Core Expertise:** Engineering end-to-end web solutions with a focus on data integrity and modular architecture.
-- 📱 **Deep Dive:** Currently mastering cross-platform mobile development and native performance optimization.
-- 🏗 **Engineering Mindset:** I prioritize clean code, design patterns, and efficient algorithms over just "getting it to work."
-- 📚 **Continuous Evolution:** Actively researching advanced state management and mobile UI/UX engineering.
+I have professional experience building WordPress websites and spent the last year working as a Computer Teacher. Teaching helped me get really good at explaining technical concepts and solving problems logically.
 
----
+Right now, I’m focused on moving into full-scale software engineering. I’m actively building projects with JavaScript, React.js, and React Native to sharpen my web and mobile development skills.
 
-### 🛠 Technical Ecosystem
+I use this GitHub to host my work and track my progress. Check out my repositories to see what I’m building, and feel free to reach out if you want to collaborate.</p>
 
-#### 💻 Software Engineering & Web
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-#### 🎨 CMS & Design Systems (Professional)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-#### 📱 Mobile Development (Active Learning)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
----
-
-### 📈 GitHub Analytics
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khalilSediq&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilSediq&layout=compact&theme=radical"/>
-</p>
-
----
-
-### 💼 Portfolio Highlights
-
-* **Scalable Web Architectures** – Developed full-stack applications with modular components and optimized database schemas.
-* **Enterprise WordPress Solutions** – Engineered custom-coded themes and plugins focused on performance and security.
-* **Mobile Engineering (WIP)** – Building modern, responsive mobile interfaces with a focus on smooth lifecycle management.
-
----
-
-### 🖇 Connect with me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/khalilullah-sadique-17592825a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="khalilSediq" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="khalilSediq" /></a>
-</p>
-
+| Currently Learning | Autogen, LangGraph | JavaScript | React
+| ------------------ | --------- |
+	
 <p align="center">
-  <i>"Software is a great combination between artistry and engineering." — Bill Gates</i>
+	<a href="https://mabdullahjs.com/" align="center" target="_blank"
+		style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">MY PERSONAL
+		PORTFOLIO WEBSITE</a>
 </p>
+
+<hr>
+<h3 align="left">📫 Connect with me on 🔗 :</h3>
+
+<p align="left">
+	<a href="https://www.linkedin.com/in/khalilullah-sadique-17592825a/" target="blank"><img align="center"
+			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
+	<a href="" target="blank" style="padding:8px"><img align="center" style="margin:8px"
+			src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" /></a>
+	<a href="https://www.instagram.com/khalilullahsadique/" target="blank" style="padding:8px"><img align="center"
+			src="https://skillicons.dev/icons?i=instagram" alt="mabdullah" height="50" width="50" /></a>
+	<img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=for-the-badge"
+		alt="mabdullah" align="right" />
+</p>
+<hr>
+
+<h3 align="left">Languages and Tools ⚙️ : </h3>
+
+<p align='center'>
+	<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+	<img src="https://skillicons.dev/icons?i=js,css,nextjs,tailwind,postgres" />
+	<img src="https://skillicons.dev/icons?i=react,express,mongodb,nodejs,ts" />
+	<img src="https://skillicons.dev/icons?i=postman,vercel" />
+	<img src="https://skillicons.dev/icons?i=redux,md,materialui,firebase" />
+	<a href="#">
+		<img alt="GitHub" title="GitHub" width="40" height="40" src="./images/github.png" style="padding-right:5px;" />
+	</a>
+	<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJS in PIAIC">
+		<img src="./images/nextjs.png" alt="nextjs" width="45" height="45" />
+	</a>
+	<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="NPM" style="text-decoration: none;">
+		<img src="./images/icons8-npm-48.png" alt="NPM" width="40" height="40" />
+	</a>
+	<a href="https://socket.io/" target="_blank" rel="noreferrer"
+		title="Socket.IO for Real Time Updating low-latency communication" style="text-decoration: none;">
+		<img src="https://socket.io/images/logo.svg" alt="socket.IO" width="40" height="40" />
+	</a>
+	<a href="https://formik.org/" target="_blank" title="Build Form in REACT" style="text-decoration: none;">
+		<img src="./images/formik.png" width="40px" />
+	</a>
+	<img src="https://skillicons.dev/icons?i=solidity,nestjs,threejs,tensorflow,docker" />
+	<img src="https://skillicons.dev/icons?i=bash,redis,wasm,webflow,jest" />
+	<img src="https://skillicons.dev/icons?i=kubernetes,fastapi,d3,swift,aws" />
+	<a href="https://cloud.google.com/dialogflow" target="_blank" title="DialogFlow for ChatBots by Sir Inzamam"
+		style="text-decoration: none;">
+		<img src="./images/dialogflow.png" width="40px" />
+	</a>
+</p>
+
+<hr>
+<br>
