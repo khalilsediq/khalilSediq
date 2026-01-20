@@ -26,12 +26,14 @@ I use this GitHub to host my work and track my progress. Check out my repositori
 <p align="left">
 	<a href="https://www.linkedin.com/in/khalilullah-sadique-17592825a/" target="blank"><img align="center"
 			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
-	<a href="" target="blank" style="padding:8px"><img align="center" style="margin:8px"
+	<a href="" target="blank" style="padding:8px">
+	<img align="center" style="margin:8px"
 			src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" /></a>
-	<a href="https://www.instagram.com/khalilullahsadique/" target="blank" style="padding:8px"><img align="center"
-			src="https://skillicons.dev/icons?i=instagram" alt="mabdullah" height="50" width="50" /></a>
+	<a href="https://www.instagram.com/khalilullahsadique/" target="blank" style="padding:8px">
+	<img align="center"
+			src="https://skillicons.dev/icons?i=instagram" alt="khalilSediq" height="50" width="50" /></a>
 	<img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=for-the-badge"
-		alt="mabdullah" align="right" />
+		alt="khalilSediq" align="right" />
 </p>
 <hr>
 
