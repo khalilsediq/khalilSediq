@@ -70,11 +70,12 @@ I use this GitHub to host my work and track my progress. Check out my repositori
 	</a>
 </p>
 
+
 ### 📈 GitHub Analytics
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khalilSediq&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilSediq&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khalilsediq&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khalilsediq&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <hr>
 <br>
