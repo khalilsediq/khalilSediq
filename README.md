@@ -15,7 +15,7 @@ I use this GitHub to host my work and track my progress. Check out my repositori
 | ------------------ | --------- |
 	
 <p align="center">
-	<a href="https://mabdullahjs.com/" align="center" target="_blank"
+	<a href="" align="center" target="_blank"
 		style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">MY PERSONAL
 		PORTFOLIO WEBSITE</a>
 </p>
