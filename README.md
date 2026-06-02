@@ -1,7 +1,7 @@
 
 <img alt="Coding" style="border-radius:16px;" src="./images/background.png">
 
-<h3 align="center" style="margin-top: 4px;">Hi there, I'm Khalilullah Saddiqui! AKA khalilSediq 👋, <span style="text-transform:uppercase;"> A Developer and Future Software Engineer.</span></h3>	
+<h3 align="center" style="margin-top: 4px;">Hi there, I'm Khalilullah Saddiqui! AKA khalilSediq 👋, <span style="text-transform:uppercase;"> A Developer and Software Engineer.</span></h3>	
 
 <p>
 
